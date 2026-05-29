@@ -138,18 +138,6 @@ npm start
 
 ---
 
-# Screenshots
-
-## Login Page
-
-Add screenshot here.
-
-## Chat Interface
-
-Add screenshot here.
-
----
-
 # Environment Variables
 
 | Variable       | Description               |
@@ -166,14 +154,11 @@ Add screenshot here.
 ## Frontend Deployment
 
 * Vercel
-* Netlify
 
 ## Backend Deployment
 
 * Render
-* Railway
-* Cyclic
-
+  
 ## Database
 
 * MongoDB Atlas
@@ -200,12 +185,6 @@ Contributions are welcome.
 3. Commit changes
 4. Push to branch
 5. Open Pull Request
-
----
-
-# License
-
-This project is licensed under the MIT License.
 
 ---
 
