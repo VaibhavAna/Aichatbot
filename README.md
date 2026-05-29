@@ -72,7 +72,7 @@ AI-Chatbot-MERN/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Chatbot-MERN.git
+git clone https://github.com/VaibhavAna/AI-Chatbot-MERN.git
 ```
 
 ```bash
